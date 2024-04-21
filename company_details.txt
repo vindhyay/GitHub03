@@ -1,2 +1,3 @@
 Address:Mallard Creek
 Ph number:123-456-789
+email:abc_def@email.com
